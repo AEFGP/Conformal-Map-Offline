@@ -1,4 +1,4 @@
-# Conformal-Map-Offline
+# Conformal-Map-Offline Modified from http://davidbau.com/ 
 1. Download master
 2. Run replace.py
 3. Drag the image to be mapped on the plane into the prompt and press enter.
